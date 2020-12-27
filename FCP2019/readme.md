@@ -12,11 +12,11 @@ Contents
   * [L04a Iterations](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/L04a.rar)
   * [L04.5 Mocking MTE](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/L04p5.tar)
   * [L05a Strings](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/L05b.pdf)
-  * [L06a Lists]
-  * [L07a Dicts]
-  * [L08a Files]
-  * [L09a OOP]
-  * [L09.5 Mocking FE]
-  * [MTE]
-  * [FE]
+  * [L06a Lists](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/L06.tar)
+  * [L07a Dicts](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/L07_dict.tar)
+  * [L08a Files](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/L08_FileIO_handout_12Qs.tar)
+  * [L09a OOP](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/L09a.pdf)
+  * [L09.5 Mocking FE](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/L09p5.tar)
+  * [MTE](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/MTE2019b.pdf)
+  * [FE](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/FE2019b2.docx)
   
