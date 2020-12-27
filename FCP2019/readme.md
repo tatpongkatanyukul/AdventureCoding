@@ -3,7 +3,7 @@
 ---
 
 Contents
-  * [L00a Warm Up 1]
+  * [L00a Warm Up 1](https://github.com/tatpongkatanyukul/AdventureCoding/blob/main/FCP2019/L00a/readme.md)
   * [L00b Warm Up 2]
   * [L01a Assignments]
   * [L02a Functions]
